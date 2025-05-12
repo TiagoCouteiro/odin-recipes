@@ -1,0 +1,30 @@
+body {
+    font-family: Tahoma, sans-serif;
+    height: 20px;
+    width: 500px;
+}
+
+h1 {
+    background-color: lightgreen;
+    border: solid black 2px;
+}
+
+h2 {
+    background-color: peachpuff;
+    border: solid black 2px;
+
+}
+
+p {
+    background-color: aquamarine;
+    border: solid black 1px;
+
+}
+
+.one {
+    background-color: orange;
+}
+
+.two {
+    background-color: orangered;
+}
