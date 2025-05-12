@@ -1,0 +1,19 @@
+body {
+    font-family: Tahoma, sans-serif;
+    height: 20px;
+    width: 500px;
+}
+
+h1 {
+    background-color: red;
+    border: solid black 2px;
+}
+
+h2 {
+    background-color: yellow;
+    border: solid black 1px;
+}
+
+p,ul,ol {
+    background-color: orange;
+}
